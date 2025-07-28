@@ -23,5 +23,9 @@ Going Tab by tab, Making a list of requirements
 List of requirement - Requirement Gathering as per tab 
 Get review from all of the requirements which we have gathered.
 
+# Difference between a UK template, and a LUX template.
+  where changes are needed.
+
+# EXplaination of each modules
 
 
